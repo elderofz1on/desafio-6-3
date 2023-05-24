@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="$wXJq?/n_`=A)gm|n}I[" x="0" y="0"></block><block type="device_forever" id="lza8TFuE;7q5(zQjukKk" x="205" y="0"></block><block type="device_gesture_event" id="g1XqMInqD|^L];;;7q6g" x="-1" y="135"><field name="NAME">Gesture.ThreeG</field></block><block type="device_show_leds" id="0_LYqgeoyz4V/e~Ch%P$" disabled="true" x="251" y="140"><field name="LEDS">`
+        # # # # # 
+        # # # # # 
+        # # # # # 
+        # # # # # 
+        # # # # #
+        `</field></block><block type="device_pause" id="MddcfV|1.=/p2KM]bypE" disabled="true" x="514" y="149"><value name="pause"><shadow type="timePicker" id="hG=T!l1p`;Ivt$~bu{M)" disabled="true"><field name="ms">1000</field></shadow></value></block><block type="device_clear_display" id="v0xk^^4f.m|)1VR=G.~9" disabled="true" x="55" y="290"></block></xml>
